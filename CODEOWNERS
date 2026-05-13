@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Leircoding
+/src/backend/database.py      @Leircoding
+/src/backend/routers/auth.py  @Leircoding
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Leircoding
